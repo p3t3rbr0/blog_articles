@@ -10,9 +10,9 @@ desc: Добавдены новые разделы сайта: раздел му
 
 Добавлены новые разделы сайта: раздел с миксами и раздел с онлайн-радио.
 
-На текущий момент миксы сгруппированы в две серии: серию радио-миксов (простые связки/стыковки разножанровой музыки в стиле обычных fm-радио, но только с "хорошей музыкой" ;)) — [https://peterbro.su/mixtapes/?series=radio](https://peterbro.su/mixtapes/?series=radio); серия миксов с качественной uplifting/progressive trance музыкой — [https://peterbro.su/mixtapes/?series=transmission](https://peterbro.su/mixtapes/?series=transmission).
+На текущий момент миксы сгруппированы в две серии: серию радио-миксов (простые связки/стыковки разножанровой музыки в стиле обычных fm-радио, но только с "хорошей музыкой" ;)) —  [https://peterbro.su/mixtapes/?series=radio](https://peterbro.su/mixtapes/?series=radio); серия миксов с качественной uplifting/progressive trance музыкой —  [https://peterbro.su/mixtapes/?series=transmission](https://peterbro.su/mixtapes/?series=transmission).
 
-Для каждой из серии миксов было развернуто по интернет-радио: радио [Fusion](https://peterbro.su/radio/fusion) (на основе миксов серии "radio mixtapes"), и радио [Escape](https://peterbro.su/radio/escape) (на основе серии миксов "transmission").
+Для каждой из серии миксов было развернуто по интернет-радио: радио [Fusion](https://peterbro.su/radio/fusion) (на основе серии миксов "radio mixtapes"), и радио [Escape](https://peterbro.su/radio/escape) (на основе серии миксов "transmission").
 
 Оба радио выдувают в http-порт аудиопоток в режиме 24/7/365.
 
